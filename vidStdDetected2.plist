@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>1920 x 1080i 60</string>
+	<key>10</key>
+	<string>1920 x 1080p 25</string>
+	<key>11</key>
+	<string>1920 x 1080p 30</string>
+	<key>12</key>
+	<string>1920 x 1080p 29.97</string>
+	<key>13</key>
+	<string>1280 x 720p 60</string>
+	<key>14</key>
+	<string>1280 x 720p 59.94</string>
+	<key>15</key>
+	<string>1280 x 720p 50</string>
+	<key>16</key>
+	<string>720 x 525i 59.94</string>
+	<key>17</key>
+	<string>720 x 625i 50</string>
+	<key>18</key>
+	<string>Not Detected</string>
+	<key>2</key>
+	<string>1920 x 1080i 59.94</string>
+	<key>3</key>
+	<string>1920 x 1080i 50</string>
+	<key>4</key>
+	<string>1920 x 1035i 60</string>
+	<key>5</key>
+	<string>1920 x 1035i 59.94</string>
+	<key>6</key>
+	<string>1920 x 1080p 24sF</string>
+	<key>7</key>
+	<string>1920 x 1080p 23.98sF</string>
+	<key>8</key>
+	<string>1920 x 1080p 24</string>
+	<key>9</key>
+	<string>1920 x 1080p 23.98</string>
+</dict>
+</plist>

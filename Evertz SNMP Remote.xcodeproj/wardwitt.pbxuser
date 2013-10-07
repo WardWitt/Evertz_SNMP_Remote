@@ -1,0 +1,346 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 932}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRange = "{0, 103}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = FEBCDD970D59279C0051F11D /* Evertz SNMP Remote */;
+		activeTarget = 8D1107260486CEB800E47090 /* Evertz SNMP Remote */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Evertz SNMP Remote */,
+		);
+		codeSenseManager = FEBCDDA60D5927A80051F11D /* Code sense */;
+		executables = (
+			FEBCDD970D59279C0051F11D /* Evertz SNMP Remote */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					350.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					736,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					638,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					436,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					420,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318461585;
+			PBXWorkspaceStateSaveDate = 318461585;
+		};
+		perUserProjectItems = {
+			FE1A765212FB56AF00D4B9AB /* PBXTextBookmark */ = FE1A765212FB56AF00D4B9AB /* PBXTextBookmark */;
+			FE2D49C712DF667400B92A0A = FE2D49C712DF667400B92A0A /* PlistBookmark */;
+			FE2D49C812DF667400B92A0A = FE2D49C812DF667400B92A0A /* PlistBookmark */;
+			FE2D49C912DF667400B92A0A = FE2D49C912DF667400B92A0A /* PlistBookmark */;
+			FE2D49CA12DF667400B92A0A = FE2D49CA12DF667400B92A0A /* PlistBookmark */;
+			FE2D49CD12DF667400B92A0A = FE2D49CD12DF667400B92A0A /* PBXTextBookmark */;
+			FE2D49E912DF68D100B92A0A = FE2D49E912DF68D100B92A0A /* PBXTextBookmark */;
+			FE2D49EF12DF68F400B92A0A = FE2D49EF12DF68F400B92A0A /* PlistBookmark */;
+			FE81BC3A12FB553500785F08 = FE81BC3A12FB553500785F08 /* PBXTextBookmark */;
+			FE8F165D0D8FE989006A7538 = FE8F165D0D8FE989006A7538 /* PBXTextBookmark */;
+			FEA0CEBB12FB4EF4002F7AB3 = FEA0CEBB12FB4EF4002F7AB3 /* PBXBookmark */;
+			FEA0CEBC12FB4EF4002F7AB3 = FEA0CEBC12FB4EF4002F7AB3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FEBCDDA50D5927A80051F11D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Evertz SNMP Remote */ = {
+		activeExec = 0;
+		executables = (
+			FEBCDD970D59279C0051F11D /* Evertz SNMP Remote */,
+		);
+	};
+	FE1A765212FB56AF00D4B9AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FEBCDDB80D5928200051F11D /* Controller.m */;
+		name = "Controller.m: 145";
+		rLen = 0;
+		rLoc = 5319;
+		rType = 0;
+		vrLen = 3008;
+		vrLoc = 3541;
+	};
+	FE2D49C712DF667400B92A0A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FEBCDDB60D5928200051F11D /* aspectRatios.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wardwitt/Desktop/Evertz SNMP Remote/aspectRatios.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FE2D49C812DF667400B92A0A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FEBCDDBA0D5928200051F11D /* GLSource.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wardwitt/Desktop/Evertz SNMP Remote/GLSource.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FE2D49C912DF667400B92A0A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FEBCDDBE0D5928200051F11D /* videoFormat.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wardwitt/Desktop/Evertz SNMP Remote/videoFormat.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FE2D49CA12DF667400B92A0A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FEBCDDBF0D5928200051F11D /* vidStdDetected2.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/wardwitt/Desktop/Evertz SNMP Remote/vidStdDetected2.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FE2D49CD12DF667400B92A0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FEBCDDB70D5928200051F11D /* Controller.h */;
+		name = "Controller.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 0;
+	};
+	FE2D49E912DF68D100B92A0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 3";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 103;
+		vrLoc = 0;
+	};
+	FE2D49EF12DF68F400B92A0A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/wardwitt/Desktop/Evertz SNMP Remote/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FE81BC3A12FB553500785F08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FEBCDDB80D5928200051F11D /* Controller.m */;
+		name = "Controller.m: 145";
+		rLen = 0;
+		rLoc = 5319;
+		rType = 0;
+		vrLen = 3010;
+		vrLoc = 3539;
+	};
+	FE8F165D0D8FE989006A7538 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FEBCDDBD0D5928200051F11D /* SnmpSession.m */;
+		name = "SnmpSession.m: 107";
+		rLen = 84;
+		rLoc = 2838;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 2401;
+	};
+	FEA0CEBB12FB4EF4002F7AB3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FEBCDDBB0D5928200051F11D /* Icon.icns */;
+	};
+	FEA0CEBC12FB4EF4002F7AB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FEBCDDB80D5928200051F11D /* Controller.m */;
+		name = "Controller.m: 145";
+		rLen = 0;
+		rLoc = 5319;
+		rType = 0;
+		vrLen = 3010;
+		vrLoc = 3539;
+	};
+	FEBCDD970D59279C0051F11D /* Evertz SNMP Remote */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Evertz SNMP Remote";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FEBCDDA50D5927A80051F11D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = Evertz_SNMP_Remote;
+			repositoryNamesForRoots = {
+				"" = Evertz_SNMP_Remote;
+			};
+		};
+	};
+	FEBCDDA60D5927A80051F11D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FEBCDDB70D5928200051F11D /* Controller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 689}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1234}";
+		};
+	};
+	FEBCDDB80D5928200051F11D /* Controller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1209, 3575}}";
+			sepNavSelRange = "{5319, 0}";
+			sepNavVisRange = "{3541, 3008}";
+		};
+	};
+	FEBCDDBA0D5928200051F11D /* GLSource.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {638, 347}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 274}";
+			sepNavWindowFrame = "{{15, 342}, {685, 531}}";
+		};
+	};
+	FEBCDDBB0D5928200051F11D /* Icon.icns */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 5}, {1312, 1018}}";
+		};
+	};
+	FEBCDDBD0D5928200051F11D /* SnmpSession.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {638, 1722}}";
+			sepNavSelRange = "{2838, 84}";
+			sepNavVisRange = "{0, 746}";
+		};
+	};
+}

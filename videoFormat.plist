@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>1080i Fr60</string>
+	<string>1080i Fr59.94</string>
+	<string>1080i Fr50</string>
+	<string>1080p Fr30</string>
+	<string>1080p Fr30sF</string>
+	<string>1080p Fr29.97</string>
+	<string>1080p Fr29.97sF</string>
+	<string>1080p Fr25</string>
+	<string>1080p Fr25sF</string>
+	<string>1080p Fr24</string>
+	<string>1080p Fr24sf</string>
+	<string>1080p Fr23.98</string>
+	<string>1080p Fr23.98sF</string>
+	<string>720p Fr60</string>
+	<string>720p Fr59.94</string>
+	<string>1035i Fr60</string>
+	<string>1035i Fr59.94</string>
+	<string>720p Fr50</string>
+	<string>525i Fr59.94</string>
+	<string>625i Fr50</string>
+</array>
+</plist>
